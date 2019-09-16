@@ -1,0 +1,251 @@
+body{
+    background-image:url("../images/asanoha-400px.png");
+   /* background-color: #777777; */
+}
+
+header{
+    padding-top: 3.5px;
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    border-width:.5px;
+    width: 100%;
+}
+
+h1 span {
+    background-color: #4aaaa5;
+    padding: 22px;
+    margin-left: 130px;
+    position: relative;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+  
+ul {
+
+    position: relative;
+    bottom: 60px;
+    right: 110px;
+    color: #777777;
+
+}
+li {
+      display: inline-block;
+      float: right;
+      padding: 8px;
+    }
+
+    .about {
+        color:#4aaaa5;
+    }
+
+    .me {
+        float: left;
+        margin-right: 20px;
+        height: 200px;
+        width: 200px;
+    }
+
+  .content {
+      border-style: solid;
+      border-width: .5px;
+      border-color:#dddddd;
+      width:960px;
+      margin: auto;
+      background-color:#ffffff;
+      margin-bottom: 100px;
+      padding:23px;
+      color: #777777;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    padding-bottom: 20px;
+    border-style: solid;
+    border-width: .5px;
+    border-color:#dddddd;
+    width: 960px;
+    margin: auto;
+    background-color:#ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+
+}
+h2{
+    color: #4aaaa5;
+    /* margin-left: 60px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#contact-form {
+    color: #777777;
+    display: table;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* padding-left: 20px; */
+    
+    
+}
+
+
+.form-control {
+    width: 700px;
+    margin-bottom: 20px;
+    /* float: left; */
+    
+
+}
+
+textarea {
+
+    height: 200px;
+}
+.form-control-submit {
+    background-color: #4aaaa5;
+    padding-left: 20px;
+    padding-right: 20px; 
+    position: relative;
+    /* margin-left: 60px; */
+    
+
+}
+
+
+
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+.portfolio-container {
+
+    
+    border-style: solid;
+    border-width: .5px;
+    border-color:#dddddd;
+    width:800px;
+    margin: auto;
+    background-color:#ffffff;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.portfolio-container img {
+
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.portfolio-container div {
+    position: relative;
+
+}
+
+.portfolio-container h2 {
+    margin-left: 10px;
+}
+
+.hangman-container{
+
+float: left;
+}
+
+.hangman-container .text-block {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-left: 121px;
+    padding-right: 100px;
+    bottom: 60px;
+    left: 20px;
+    
+}
+
+.rpg-game-container {
+
+    float: left;
+}
+
+.rpg-game-container .text-block {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-left: 108px;
+    padding-right: 100px;
+    bottom: 60px;
+    left: 20px;
+    
+}
+
+.trivia-game-container {
+
+    float: left;
+}
+
+.trivia-game-container .text-block {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-left: 99px;
+    padding-right: 100px;
+    bottom: 60px;
+    left: 20px;
+
+}
+ 
+.info-widget-container{
+    float: left;
+}
+
+.info-widget-container .text-block {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-left: 104px;
+    padding-right: 100px;
+    bottom: 60px;
+    left: 20px;
+}
+
+.rock-container .text-block {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-left: 38px;
+    padding-right: 100px;
+    bottom: 60px;
+    left: 20px;
+
+    
+}
+    
+  .footerLine {
+      background-color: #4aaaa5;
+      padding: 10px;
+      width: 100%;
+      position:fixed;
+      bottom:35px;
+      width:100%;
+      left: 5px;
+      
+  }
+  footer {
+      position: fixed;
+      left: 0;
+      bottom:0;
+      width:100%;
+      text-align: center;
+      background-color:#666666;
+      color:#777777;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      margin-top: 40px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      border-top: 8px solid #4aaaa5;
+  }
+
+  
