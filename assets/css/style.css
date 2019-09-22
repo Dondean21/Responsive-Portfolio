@@ -215,10 +215,11 @@ float: left;
     position: absolute;
     background-color: #4aaaa5;
     color: white;
-    padding-left: 38px;
-    padding-right: 100px;
+    padding-left: 68px;
+    padding-right: 70px;
     bottom: 60px;
     left: 20px;
+    
 
     
 }
@@ -298,18 +299,21 @@ float: left;
    }
 
    h1 span{
+       position: static;
        margin-left: 200px;
        width: 100%;
    }
    header{
        background-color: #4aaaa5;
        border-bottom: 30px solid #ffffff;
+       width: 100%;
    }
 
    ul {
    
     bottom: 5px;
     right: 220px;
+    text-align: center;
    }
 .portfolio-container{
 
